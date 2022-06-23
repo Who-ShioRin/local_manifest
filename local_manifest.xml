@@ -2,4 +2,8 @@
 <manifest>
 
  <!-- Trees -->
+ <project path="device/asus/X00P" name="who456/android_device_asus_X00P.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/asus/X00P" name="who456/kernel_asus_X00P.git" remote="github" revision="main" />
+ <project path="vendor/asus/X00P" name="who456/android_vendor_asus_X00P.git" remote="github" revision="arrow-12.1" /> 
  
+ </manifest>
