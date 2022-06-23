@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/asus/X00P" name="RazaDroidProject/device_asus_X00P.git" remote="github" revision="lineage-18.x" />
- <project path="kernel/asus/X00P" name="who456/kernel_asus_X00P.git" remote="github" revision="main" />
+ <project path="kernel/asus/X00P" name="RazaDroidProject/android_kernel_asus_msm8937.git" remote="github" revision="18.x" />
  <project path="vendor/asus/X00P" name="RazaDroidProject/vendor_asus.git" remote="github" revision="lineage-18.x" /> 
  
  </manifest>
