@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X00P" name="RazaDroidProject/device_asus_X00P.git" remote="github" revision="lineage-18.x" />
+ <project path="device/asus/X00P" name="Who-ShioRin/device_asus_X00P.git" remote="github" revision="lineage-18.x" />
  <project path="kernel/asus/X00P" name="stormbreaker-project/kernel_asus_X00P.git" remote="github" revision="main" />
- <project path="vendor/asus/X00P" name="RazaDroidProject/vendor_asus.git" remote="github" revision="lineage-18.x" /> 
+ <project path="vendor/asus/X00P" name="Who-ShioRin/vendor_asus.git" remote="github" revision="lineage-18.x" /> 
  
  </manifest>
